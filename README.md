@@ -1,2 +1,2 @@
-# parameterkata
+# typescriptkata
 Created with CodeSandbox
